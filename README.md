@@ -35,4 +35,4 @@ This website is designed to be easily hosted on platforms like Vercel or GitHub 
 -   Font Awesome
 -   Catppuccin (Frappé and Latte palettes)
 
-This project was 100% vibe coded.
+This project was crafted with [Gemini CLI](https://github.com/google-gemini/gemini-cli).

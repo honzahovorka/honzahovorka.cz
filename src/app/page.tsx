@@ -42,7 +42,7 @@ export default function Home() {
           />
         </div>
         <h1 className="text-4xl sm:text-5xl font-extrabold mb-2 text-[var(--ctp-mauve)]">Honza Hovorka</h1>
-        <h2 className="text-xl sm:text-2xl text-[var(--ctp-subtext0)] mb-6 font-medium">Senior Backend Engineer</h2>
+        <h2 className="text-xl sm:text-2xl text-[var(--ctp-subtext0)] mb-6 font-medium">Senior Software Engineer</h2>
         <p className="text-lg text-[var(--ctp-text)] mb-4 leading-relaxed text-justify">
           As a <span className="font-semibold text-[var(--ctp-mauve)]">Senior Software Engineer</span> at <a href="https://www.dnanexus.com" target="_blank" rel="noopener noreferrer" className="font-semibold text-[var(--ctp-blue)] hover:underline">DNAnexus</a>, I specialize in architecting and developing <span className="font-semibold text-[var(--ctp-green)]">robust, scalable, and high-performance backend systems</span>.
         </p>
@@ -67,7 +67,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-      <p className="text-xs text-[var(--ctp-overlay0)] mt-8">© 2025 This page has been 100% vibe coded</p>
+      <p className="text-xs text-[var(--ctp-overlay0)] mt-8">© 2025 Crafted with <a href="https://github.com/google-gemini/gemini-cli" target="_blank" rel="noopener noreferrer" className="font-semibold text-[var(--ctp-blue)] hover:underline">Gemini CLI</a></p>
     </main>
   );
 }

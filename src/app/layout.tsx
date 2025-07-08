@@ -12,8 +12,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Honza Hovorka - Senior Backend Engineer",
-  description: "Personal website of Honza Hovorka, a Senior Backend Engineer.",
+  title: "Honza Hovorka - Senior Software Engineer",
+  description: "Personal website of Honza Hovorka, a Senior Software Engineer.",
   icons: { icon: "/favicon.svg" },
 };
 
